@@ -1,0 +1,25 @@
+_repo: Quiet-Talks-with-World-Winners_12799
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gordon, S. D. (Samuel Dickey)
+    alias: Gordon, Samuel Dickey
+    birthdate: 1859
+    deathdate: 1936
+    gutenberg_agent_id: '4409'
+    url: http://www.gutenberg.org/2009/agents/4409
+description: Cover -- Contents.
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12799'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BR'
+- !lcsh 'Christian life'
+- GITenberg
+title: Quiet Talks with World Winners
+url: http://www.gutenberg.org/ebooks/12799
